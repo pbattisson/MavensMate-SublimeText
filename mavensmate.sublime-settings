@@ -177,7 +177,8 @@ To override default MavensMate settings, modify user-specific settings (MavensMa
 		".auradoc",
 		".css",
 		".js",
-		".evt"
+		".evt",
+		".cmp"
 	],
 
 	//template location, e.g. "remote" or "local" ("remote" refers to templates located on github)
